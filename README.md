@@ -15,6 +15,6 @@ Responsive Design: Optimized for viewing on various devices.
 Installation and Setup:
 Clone the repository: git clone https://github.com/Ayibongwe02/Home-Protexion.git
 
-Navigate to the project directory: cd Home-Protexion
+Navigate to the project directory: cd Home-Protexion.
 
 
