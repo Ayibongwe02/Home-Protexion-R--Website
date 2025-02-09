@@ -17,4 +17,4 @@ Clone the repository: git clone https://github.com/Ayibongwe02/Home-Protexion.gi
 
 Navigate to the project directory: cd Home-Protexion
 
-Open the project in your preferred code editor to view and modify the frontend code.
+
